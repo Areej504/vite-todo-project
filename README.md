@@ -17,18 +17,6 @@ The project demonstrates TypeScript classes, interfaces, DOM manipulation, and c
 
 - Organized TypeScript class structure (ListItem, FullList, ListTemplate)
 
-## Project Structure
-src/
-├── main.ts                 # App initialization
-├── model/
-│   ├── ListItem.ts         # Item class
-│   └── FullList.ts         # Singleton list manager
-├── templates/
-│   └── ListTemplate.ts     # DOM rendering logic
-├── css/
-│   └── style.css           # Styling
-index.html                  # UI structure
-
 ## Installation
 
 ### Clone the repository:
